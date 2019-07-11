@@ -3,7 +3,7 @@
     box-sizing: border-box;
     list-style-type: none; /* Styled in normalize.css */
     text-decoration: none;
-    color: #FF0000;
+    color: #ccc;
 }
 
 body{
