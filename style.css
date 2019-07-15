@@ -195,13 +195,3 @@ body{
      color: rgb(50, 101, 134);
           transition-duration: 350ms;
 }
-
-/*****Adding the dropdown menu and the interaction**********/
-.dropbtn {
-  background-color: #3498DB;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
